@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6,p,li
 #hero
 {
 
-  background-image: url("/img/header_bg.jpg");
+  background-image: url("{{site.url}}/img/header_bg.jpg");
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
